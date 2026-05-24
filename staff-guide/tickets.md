@@ -1,60 +1,81 @@
-# Ticket Handling
+# 🎫 Ticket Handling
 
-Tickets are how players report issues, ask questions, and request help. This is the bulk of our work.
+Tickets are the backbone of staff work. Handle them consistently, professionally, and thoroughly.
+
+---
 
 ## Ticket Types
 
 | Type | What It Is | Priority |
 |---|---|---|
-| **Report** | Player reporting another player | High |
-| **Bug** | Game/script issue | Medium |
-| **Question** | Rules, "how do I..." | Low |
-| **Compensation** | Lost item/vehicle due to bug | Medium |
-| **Appeal** | Disputing a punishment | Reviewed in batch |
+| 🔴 **Player Report** | One player reporting another for a rule violation | High |
+| 🟠 **Compensation** | Lost item/vehicle/money due to a verified bug | Medium |
+| 🟡 **Bug Report** | Game or script issue needing investigation | Medium |
+| 🟢 **Question** | Rules clarification, "how do I..." | Low |
+| 🔵 **Ban Appeal** | Disputing an existing punishment | Reviewed in batch |
+
+---
 
 ## The Ticket Flow
 
-1. **Claim** — claim the ticket so others know you're handling it. No double-handling.
-2. **Greet** — `Hi [name], staff member [you] here. How can I help?`
-3. **Get the facts** — let the player explain. Ask clarifying questions.
-4. **Investigate** — pull logs, check video, talk to other parties.
-5. **Decide** — apply the appropriate action (warn, ban, no action, escalate).
-6. **Communicate** — tell the player the outcome plainly.
-7. **Document** — close the ticket with a summary in the log.
+1. **Claim** — claim the ticket in the bot so others know you're on it. No double-handling.
+2. **Greet** — introduce yourself: `Hi [name], I'm [your name] from the staff team. How can I help?`
+3. **Gather facts** — let the player fully explain. Ask clarifying questions before forming a conclusion.
+4. **Investigate** — pull logs, review video evidence, check combat history, speak to other parties if needed.
+5. **Decide** — apply the appropriate action. Reference the [Punishment System](../server-rules/punishments.md).
+6. **Communicate** — tell the player the outcome clearly and without jargon.
+7. **Document** — close the ticket with a written summary in the log channel.
+
+---
 
 ## Best Practices
 
-- **Don't assume.** Even if you "know" the player is lying, get the receipts.
-- **Don't take sides.** Hear both parties before deciding.
-- **Keep it short.** A ticket isn't therapy. Resolve and move on.
-- **Don't argue with players in tickets.** State the decision once, escalate if they push back.
+{% hint style="info" %}
+Good ticket handling protects both the player and you. If your reasoning isn't documented, it can't be defended.
+{% endhint %}
+
+- **Don't assume guilt.** Even if you "know" the player is lying — get the evidence. Gut feelings don't hold up in appeals.
+- **Hear both sides.** Never action a report after hearing only the reporting player.
+- **Keep it professional.** State your decision once. If the player argues, document it and stand firm — don't debate in the ticket.
+- **Don't take sides.** The moment you appear biased, the ticket becomes a liability.
+
+---
 
 ## Escalation
 
-Escalate to a Senior+ when:
-- The punishment would be tier 5 or 6
-- The accused is another staff member
-- You're not sure what the right call is
-- The player is asking to speak to a higher rank (and that's actually warranted)
+Escalate to a Senior Admin or above when:
 
-Don't escalate to dodge the work. If it's a clear-cut tier 2 warn, you handle it.
+- The punishment would be **Tier 5 or 6**
+- The accused is a **staff member**
+- You genuinely don't know the right call
+- The player specifically and reasonably requests a higher rank
+
+{% hint style="warning" %}
+Don't escalate to dodge the work. If it's a clear-cut tier 2 warning, you handle it.
+{% endhint %}
+
+---
 
 ## Compensation Requests
 
-Players will ask for comp on lost vehicles, items, or money due to bugs. Steps:
+Players regularly request comp for items, vehicles, or money lost to bugs. Follow this flow:
 
-1. Verify the bug actually happened (video > word).
-2. Check if it's a known issue.
+1. Verify the bug actually caused the loss — **video evidence is required**, word alone is not enough.
+2. Check if it's a known bug (check the bug log channel).
 3. If valid, document and submit to Head Admin for approval.
-4. Once approved, restore the item with the right command (logged).
+4. Once approved, restore the item using the appropriate command — **logged**.
 
-**Never comp without proof and approval.** Comp abuse is a fast way to lose trust.
+{% hint style="danger" %}
+**Never compensate without proof and Head Admin approval.** Comp abuse erodes trust in the entire team and is grounds for removal.
+{% endhint %}
 
-## Difficult Players
+---
 
-If a player gets hostile in a ticket:
-- Stay professional.
-- Warn once: "Please keep this respectful or I'll close the ticket."
-- If it continues, close it and document. They can reopen calmly.
+## Handling Hostile Players
 
-If they threaten you, your family, or the community: instant ban + report to Head Admin.
+If a player becomes rude or threatening in a ticket:
+
+1. Stay calm and professional — don't match their energy.
+2. Issue one warning: *"Please keep this respectful, or I'll close the ticket and you can reopen when ready."*
+3. If the behavior continues, close the ticket and document the interaction.
+4. If they issue threats against you or the community: **instant ban + report to Head Admin immediately**.

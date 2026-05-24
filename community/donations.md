@@ -1,49 +1,67 @@
-# Donations
+# 💎 Donations & VIP
 
-Ascendant runs on community support. Servers, dev time, and content cost real money — donations keep us live and growing.
+Ascendant runs on community support. Server hosting, custom MLOs, voice servers, and development time all have a real cost — your support keeps us live and growing.
 
-👉 **Donate here:** [STORE_URL]
+{% hint style="success" %}
+👉 **Support us:** [ascendant-rp.tebex.io](https://ascendant-rp.tebex.io)
+{% endhint %}
+
+---
+
+## VIP Tiers
+
+| Tier | Monthly | Key Perks |
+|---|---|---|
+| 💚 **Emerald** | $9.99/mo | VIP Discord role, name color, priority queue |
+| ❤️ **Ruby** | $24.99/mo | + Extra character slot, custom plate prefix |
+| 💎 **Diamond** | $49.99/mo | + Exclusive clothing pack, garage upgrade slot |
+| 👑 **Crown** | $79.99/mo | + Personalized in-game item, name in credits, hall of fame |
+
+Full perk details are listed on the [Tebex store](https://ascendant-rp.tebex.io).
+
+---
 
 ## What Donations Cover
 
-- Server hosting and bandwidth
-- Custom MLOs and scripts
-- Domain, voice servers, dashboard infra
-- Community events and prizes
+- 🖥️ Dedicated server hosting and bandwidth
+- 🏙️ Custom MLO interiors and map additions
+- 🔧 In-house script development
+- 🌐 Domain, voice servers, and dashboard infrastructure
+- 🎉 Community events and in-game prizes
 
-## Donor Tiers
+---
 
-| Tier | Monthly | Perks |
-|---|---|---|
-| **Supporter** | $[X] | Donor role on Discord, name tag color |
-| **Citizen** | $[X] | + Priority queue, +1 character slot |
-| **Resident** | $[X] | + Custom plate, exclusive clothing pack |
-| **Mogul** | $[X] | + Garage upgrade slot, custom phone wallpaper |
-| **Legend** | $[X] | + Personalized in-game item, name in credits |
+## Our P2W Policy
 
-> **All perks are cosmetic, convenience, or quality-of-life.** Donations do **not** buy gameplay advantage, money, weapons, illegal goods, gang status, or LEO/EMS access.
+{% hint style="danger" %}
+**We will never sell gameplay advantage.** Donations are strictly cosmetic, convenience, or quality-of-life.
+{% endhint %}
 
-## Pay-to-Win? No.
+We will **never** sell:
+- ❌ Cash or in-game currency
+- ❌ Weapons, drugs, or contraband
+- ❌ Whitelisted job slots or faction approval
+- ❌ Punishment forgiveness or reduced bans
+- ❌ Any unfair advantage over non-donors
 
-We will never sell:
-- Cash or in-game currency
-- Weapons, drugs, or contraband
-- Whitelisted job slots
-- Faction approval
-- Punishment forgiveness
+Anyone who claims otherwise is trying to scam you. Report it immediately.
 
-Anyone who claims otherwise is scamming you. Report them.
+---
 
-## Refunds
+## Refund Policy
 
 - Donations are **non-refundable** in most cases.
-- Exceptions: accidental double-charge, technical failure to deliver perks. Open a ticket within 7 days.
-- Refunding through your bank/PayPal **after receiving perks** = ban + perks revoked.
+- **Exceptions:** accidental double-charge, or technical failure to deliver perks. Open a ticket within **7 days**.
+- Initiating a chargeback through your bank or PayPal after receiving perks = **ban** + perks revoked.
+
+---
 
 ## Gifting
 
-You can gift a tier to another player at the donation portal. Recipient gets the perks for the duration purchased.
+You can gift any VIP tier to another player through the Tebex store. The recipient receives the full perks for the purchased duration.
+
+---
 
 ## Recognition
 
-Top donors are featured in `#hall-of-fame` (with consent) and named in seasonal community shoutouts.
+Top supporters are featured in `#hall-of-fame` (with consent) and called out in seasonal community shoutouts.

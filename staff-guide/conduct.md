@@ -1,45 +1,69 @@
-# Staff Conduct
+# 📏 Staff Conduct
 
 How we behave matters more than what rank we hold.
 
+---
+
 ## Core Expectations
 
-1. **Professionalism in tickets.** Even if a player is rude, you respond calmly. Screenshot for record, don't escalate the tone.
-2. **No favoritism.** Friends, donors, and big creators get treated the same as everyone else. Recuse yourself if you have a personal conflict.
-3. **No staff-on-staff drama publicly.** Disagreements go to internal channels, not general chat or DMs with players.
-4. **Confidentiality.** What's discussed in staff channels stays there. Leaks = removal.
-5. **Don't powertrip.** Don't teleport to scenes "to watch." Don't use admin tools for personal RP advantage. Don't intervene in scenes where you're a player.
+1. **Professionalism in every ticket.** Even if a player is rude, you respond calmly. Screenshot and document — don't escalate the tone.
+2. **No favoritism.** Friends, donors, and content creators are treated the same as everyone else. Recuse yourself if you have a personal conflict.
+3. **No staff-on-staff drama publicly.** Disagreements go to internal channels — not general chat or DMs with players.
+4. **Confidentiality.** What's discussed in staff channels stays there. Leaks result in immediate removal.
+5. **Don't powertrip.** Don't teleport to scenes "just to watch." Don't use admin tools for personal RP advantage. Don't intervene in scenes you're part of as a player.
 
-## When You're Playing as a Player
+---
 
-- You are a normal player. No NoClip, no spectating, no looking up information about other players' inventories or money.
-- If you witness a rule break **as a player**, file a ticket like anyone else — don't unilaterally action it.
-- Don't share IC info you learned via admin tools with your character. Period.
+## When You're Playing as a Regular Player
+
+{% hint style="warning" %}
+When you're in the city as a player, you are a **normal player**. Your staff rank does not apply to your own gameplay.
+{% endhint %}
+
+- No NoClip, spectate, or player lookups while RPing.
+- If you witness a rule break as a player, open a `/report` like anyone else — don't unilaterally action it.
+- **Never** share information you learned via admin tools with your character. This is an instant removal offense.
+
+---
 
 ## Conflict of Interest
 
-Don't handle a ticket if:
-- The player is a close friend or someone you regularly RP with
-- You're involved in the situation IC
-- You have an active beef with the player
+Don't handle a ticket or situation if:
 
-Pass it to another staff member. We have many — use them.
+- The player is a close friend or regular RP partner
+- You're directly involved in the IC situation
+- You have active OOC conflict with the player
+
+**Pass it to another staff member.** We have enough people — use them.
+
+---
 
 ## Communication
 
-- Respond to staff pings within a reasonable window if active.
-- If you can't make a shift or commitment, tell the team in advance.
-- "Going inactive for a while" is fine — just **say so**. Ghosting gets you removed.
+- Respond to staff pings within a reasonable timeframe when active.
+- If you can't commit to a shift or a deadline, tell the team in advance.
+- "Going inactive for a while" is completely fine — **just say so**. Ghosting without notice will result in removal.
+
+---
 
 ## Use of Admin Tools
 
-The toolset is documented in [Admin Commands](commands.md). Some hard rules:
+{% hint style="danger" %}
+All `noclip`, `spectate`, and `god` usage is logged and reviewed monthly. Misuse is grounds for demotion or removal.
+{% endhint %}
 
-- **No spawning money or items** for any reason without Head Admin approval (compensation cases only).
-- **No teleporting players** without their consent unless you're rescuing from a stuck spot.
-- **No reviving players** mid-scene unless it's a clear bug.
-- **All `noclip`, `god`, and `spectate` use is logged.** Use them only for ticket handling.
+Hard rules on admin tools:
 
-## When You Mess Up
+- **No spawning money or items** without Head Admin approval (compensation cases only, with documented ticket).
+- **No teleporting players** without consent unless it's a stuck-rescue situation.
+- **No reviving players mid-scene** unless there's a clear technical bug.
 
-It happens. The rule is: **come forward immediately.** Tell the Head Admin, document what happened, and we'll figure it out together. Hiding mistakes is what gets people removed — not the mistakes themselves.
+Full command details are in [Admin Commands](commands.md).
+
+---
+
+## When You Make a Mistake
+
+It happens to everyone. The rule is simple: **come forward immediately.**
+
+Tell the Head Admin, document what happened, and we'll work through it. Hiding or covering up mistakes is what ends people's staff careers — not the mistakes themselves.

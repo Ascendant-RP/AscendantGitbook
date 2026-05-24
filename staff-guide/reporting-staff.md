@@ -1,48 +1,67 @@
-# Reporting Other Staff
+# 🚨 Reporting Other Staff
 
-Staff are not above the rules. If you see misconduct — by **any** staff member, regardless of rank — you have a duty to report it.
+Staff are not above accountability. If you witness misconduct — by **any** staff member at **any** rank — you have a duty to report it.
+
+---
 
 ## What to Report
 
-- Abuse of admin tools (spawning items for personal use, spying on players, etc.)
-- Favoritism in tickets or punishments
-- Leaking confidential staff discussions
-- IC use of OOC information
+- Abuse of admin tools (spawning items, spying on players without ticket reason, etc.)
+- Favoritism in tickets or punishment decisions
+- Leaking confidential staff discussions to players
+- Using IC information gained via admin tools in character
 - Toxicity toward players or other staff
-- Failure to follow ban/kick procedures
-- Inactivity disguised as activity (claiming tickets but not handling them)
+- Failing to follow ban and kick procedures
+- Logging fake activity — claiming tickets without actually handling them
+
+---
 
 ## How to Report
 
-### If the staff member is **below Head Admin**:
-- DM the **Head Admin** on Discord with details and evidence.
+{% hint style="info" %}
+All reports are confidential. Your identity is never shared with the person being reported.
+{% endhint %}
 
-### If the staff member **is** Head Admin:
-- DM an **Owner** directly.
+| Situation | Who to Contact |
+|---|---|
+| Staff member below Head Admin | DM the **Head Admin** directly |
+| Head Admin is the subject | DM an **Owner** directly |
+| Unsure who to contact | DM any **Senior Admin** — they'll route it appropriately |
 
-### If you're not sure who to report to:
-- DM any Senior Admin or above. They'll route it.
+Include as much evidence as you can: screenshots, clip links, log excerpts, timestamps.
 
-## What Happens Next
+---
 
-1. Report is received and logged confidentially.
+## What Happens After You Report
+
+1. Report is received and logged **confidentially**.
 2. Head Admin (or Owner, if HA is the subject) opens an internal review.
-3. Both parties are interviewed.
-4. Logs and evidence are pulled.
-5. Decision: no action / coaching / formal warning / demotion / removal.
-6. Reporter is notified of the outcome (without sensitive details).
+3. Both parties are interviewed separately.
+4. Logs and available evidence are pulled and reviewed.
+5. Decision is made: no action / coaching / formal warning / demotion / removal.
+6. The reporter is notified of the outcome (without sensitive details about the other party).
 
-## Confidentiality
+---
 
-Reports are **confidential**. Your identity is not shared with the subject of the report. Retaliation against a reporter is grounds for immediate removal.
+## If You're the One Being Reported
+
+{% hint style="warning" %}
+Being reported does not mean you're already guilty. The process is designed to be fair to both sides.
+{% endhint %}
+
+- You'll be informed of the allegation and asked for your perspective.
+- You **will not** be told who filed the report.
+- Be honest. Logs exist. Attempting to cover up or minimize a legitimate mistake makes it significantly worse.
+- If you made a genuine mistake — own it. That's respected far more than defensiveness.
+
+---
+
+## Retaliation
+
+Retaliating against a reporter — through punishment, hostility, or any other means — is grounds for **immediate removal** from the staff team, regardless of rank.
+
+---
 
 ## False Reports
 
-We treat reports seriously. **Knowingly false reports** — submitted to harass another staff member — result in immediate removal from the team.
-
-## When You're the One Being Reported
-
-- You'll be told what the allegation is and asked for your side.
-- You will **not** be told who reported you.
-- Be honest. We have logs. Trying to lie or cover up makes it worse.
-- If you genuinely made a mistake, own it. We respect that.
+We take all reports seriously, which means we also take false reports seriously. Submitting a knowingly fabricated report to target or harass another staff member results in **immediate removal from the team**.

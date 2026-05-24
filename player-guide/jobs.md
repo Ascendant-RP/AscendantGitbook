@@ -1,60 +1,82 @@
-# Jobs
+# 💼 Jobs
 
-Every character needs a way to make money. Ascendant has a wide range of jobs — pick one that fits your character, or stack a few.
+Every character needs a way to make money. Ascendant has a wide range of legal jobs, skilled careers, and government positions — pick one that fits your character's story, or work your way up through several.
 
-## Starter Jobs (No Application)
+{% hint style="info" %}
+Open your **phone → Jobs app** to sign on/off for most starter jobs. Paychecks are issued automatically while on-duty.
+{% endhint %}
 
-These are available immediately and great for new players.
+---
 
-| Job | Where | Pay |
+## Starter Jobs — No Application Needed
+
+Available immediately to all whitelisted players. Great for new characters getting established.
+
+| Job | Location | Pay Style |
 |---|---|---|
-| **Trucker** | Post Op (Popular Street) | Steady, mileage-based |
-| **Taxi** | Downtown Cab Co. | Fares + tips |
-| **Garbage** | Public Works depot | Per-route |
+| **Trucker** | Post Op (Popular Street) | Mileage-based |
+| **Taxi Driver** | Downtown Cab Co. | Fares + tips |
+| **Garbage Collector** | Public Works depot | Per-route |
 | **Fisher** | Various docks | Per-fish, sell at market |
 | **Hunter** | Paleto Bay outpost | Per-pelt |
-| **Miner** | Quarry | Per-ore |
-| **Delivery** | Various stores | Per-delivery |
+| **Miner** | Quarry, Sandy Shores | Per-ore |
+| **Delivery Driver** | Various stores across LS | Per-delivery |
 
-Open your phone → **Jobs** app to sign on and off.
+---
 
 ## Skilled / Whitelisted Jobs
 
-These require an in-character interview or training.
+These require an in-character interview, training, or application through Discord.
 
-- **Mechanic** (Bennys, LSC, custom shops)
-- **Tow Truck Driver**
-- **Burger Shot / Pearls / Restaurants**
-- **Reporter / News**
-- **Lawyer**
-- **Real Estate Agent**
+- 🔧 **Mechanic** — Benny's, LSC, or player-owned shops
+- 🚐 **Tow Truck Driver**
+- 🍔 **Restaurant Worker** — Burger Shot, Pearl's, and others
+- 📰 **Reporter / News Anchor**
+- ⚖️ **Lawyer / Public Defender**
+- 🏠 **Real Estate Agent**
 
-Apply in `#job-applications` on [Discord]([DISCORD_INVITE_URL]) or talk to the relevant business owner IC.
+Apply in `#job-applications` on [Discord](https://discord.gg/ascendantrp), or talk to the relevant business owner in character.
 
-## Government Jobs (Application Required)
+---
 
-- **LSPD / BCSO** — Law Enforcement
-- **EMS / Pillbox** — Medical
-- **DOJ** — Judges, DAs, Public Defenders
-- **Government** — Mayor's office, regulatory roles
+## Government Jobs
 
-These have separate application processes posted in `#government-careers`.
+Full whitelisted departments with their own applications, training academies, and rank structures.
 
-## Criminal "Jobs"
+| Department | Role |
+|---|---|
+| 🚔 **LSPD / BCSO** | Law enforcement, patrol, investigations |
+| 🚑 **EMS / Pillbox Medical** | Emergency medical services |
+| ⚖️ **DOJ** | Judges, district attorneys, public defenders |
+| 🏛️ **Government** | Mayor's office, regulatory and civic roles |
 
-Crime is **not** a job you sign on for. It's RP'd organically:
+Applications for government careers are posted in `#government-careers` on Discord.
 
-- Robberies, store hits, bank heists, drug production, chop shops, etc.
-- See [Factions](factions.md) for organized criminal play.
-- Your criminal income is taxed by the **risk** of getting caught.
+---
+
+## Criminal Activity
+
+{% hint style="warning" %}
+Crime is **not a job you sign on for**. It's roleplay'd organically. You accept the risk of arrest, injury, or death every time you engage in it.
+{% endhint %}
+
+Criminal income comes from organic RP:
+- Store robberies, bank heists, armored truck hits
+- Drug production and distribution
+- Chop shops, car theft rings
+- Street hustles and gang operations
+
+See [Factions & Gangs](factions.md) for organized criminal play.
+
+---
 
 ## Business Ownership
 
-Players can own businesses — bars, clubs, mechanic shops, even gun stores. Process:
+Players can own and operate businesses — bars, mechanic shops, restaurants, clubs, even gun stores.
 
-1. Build IC reputation and capital.
-2. Submit a business proposal in `#business-applications`.
-3. Negotiate purchase/lease with the city (DOJ/Mayor RP).
-4. Hire employees, set wages, run it.
+1. Build IC capital and reputation.
+2. Submit a business proposal in `#business-applications` on Discord.
+3. Negotiate the purchase or lease with the city (DOJ/Mayor RP).
+4. Hire employees, set wages, and run operations.
 
-Businesses pay out automatically based on sales + foot traffic.
+Businesses generate automatic revenue based on sales and foot traffic, plus whatever you run through them IC.

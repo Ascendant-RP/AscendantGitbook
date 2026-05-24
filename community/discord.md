@@ -1,52 +1,77 @@
-# Discord
+# 💬 Discord
 
-Discord is the heart of the Ascendant community. Announcements, applications, support, and most OOC discussion happens there.
+Discord is the heart of the Ascendant community. Announcements, applications, support, and all OOC activity happens here.
 
-👉 **Join here:** [DISCORD_INVITE_URL]
+{% hint style="success" %}
+👉 **Join our Discord:** [discord.gg/ascendantrp](https://discord.gg/ascendantrp)
+{% endhint %}
+
+---
 
 ## Channel Map
 
-### Information
-- `#announcements` — server news, updates, restarts
-- `#rules` — pinned rules summary
-- `#changelog` — recent script/feature changes
-- `#status` — server up/down + current player count
-
-### Onboarding
-- `#verify` — link your account
-- `#whitelist-application` — apply to play
-- `#getting-started` — new player questions
-
-### Community
-- `#general` — general OOC chat
-- `#media` — share your clips and screenshots
-- `#suggestions` — pitch ideas for the server
-- `#looking-for-rp` — find scenes / partners
-
-### Support
-- `#support-tickets` — open a ticket
-- `#bug-reports` — report bugs
-- `#ban-appeals` — appeal a ban
-- `#tech-support` — install/connect issues
-
-### Development & Roles
-- `#dev-updates` — what's coming
-- `#career-applications` — government, medical, business
-
-## Roles
-
-| Role | How to Get It |
+### 📢 Information
+| Channel | Purpose |
 |---|---|
-| **Verified** | Pass `#verify` |
-| **Whitelisted** | Approved application |
-| **Donor [Tier]** | See [Donations](donations.md) |
-| **Government / EMS / etc.** | Department onboarding |
-| **Streamer** | Active Twitch/YouTube creator, apply in `#streamer-application` |
+| `#announcements` | Server news, updates, scheduled restarts |
+| `#rules` | Pinned rules summary |
+| `#changelog` | Recent script and feature updates |
+| `#status` | Server up/down and live player count |
+
+### 🎟️ Onboarding
+| Channel | Purpose |
+|---|---|
+| `#verify` | Link your Discord to your Cfx.re account |
+| `#whitelist-application` | Apply to play |
+| `#getting-started` | New player questions and guidance |
+
+### 💬 Community
+| Channel | Purpose |
+|---|---|
+| `#general` | General OOC chat |
+| `#media` | Share your clips and screenshots |
+| `#suggestions` | Pitch ideas for the server |
+| `#looking-for-rp` | Find scenes and RP partners |
+
+### 🎫 Support
+| Channel | Purpose |
+|---|---|
+| `#support-tickets` | Open a moderation or rule question ticket |
+| `#bug-reports` | Report in-game bugs |
+| `#ban-appeals` | Appeal a ban or punishment |
+| `#tech-support` | Installation and connection issues |
+
+### 🔧 Development & Careers
+| Channel | Purpose |
+|---|---|
+| `#dev-updates` | Upcoming features and changes |
+| `#government-careers` | LSPD, BCSO, EMS, DOJ applications |
+| `#job-applications` | Skilled civilian job applications |
+| `#faction-apps` | New gang/faction applications |
+
+---
+
+## Discord Roles
+
+| Role | How to Earn |
+|---|---|
+| **Verified** | Complete `#verify` |
+| **Whitelisted** | Approved whitelist application |
+| **VIP [Emerald / Ruby / Diamond / Crown]** | See [Donations](donations.md) |
+| **LSPD / EMS / DOJ / etc.** | Department onboarding after application approval |
+| **Streamer** | Active Twitch/YouTube creator — apply in `#streamer-application` |
+
+---
 
 ## Discord Rules (Summary)
 
-The full server rules apply on Discord. Plus:
-- Use the channels for what they're for
-- No NSFW outside of clearly marked channels (we don't have any — so just no)
-- No DMing staff for ticket-style help; use `#support-tickets`
-- Don't ping staff for non-urgent issues
+The full [server rules](../server-rules/README.md) apply on Discord. Additionally:
+
+- Use channels for their intended purpose.
+- No NSFW content anywhere on the server.
+- Do not DM staff for ticket-style help — use `#support-tickets`.
+- Do not ping `@Staff` unless it's a genuine emergency.
+
+{% hint style="warning" %}
+Abusing Discord channels or staff pings can result in a mute or temporary Discord ban.
+{% endhint %}

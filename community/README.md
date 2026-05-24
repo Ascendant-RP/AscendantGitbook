@@ -1,16 +1,28 @@
-# Community
+# 💬 Community
 
-Outside the city, our community lives on Discord, social media, and through the support of players who help keep the lights on.
+Outside the city, the Ascendant community lives on Discord, social media, and through the support of players who keep the lights on.
 
-## In This Section
-
-- [Discord](discord.md) — our home base
-- [Donations](donations.md) — support the server
-- [Support](support.md) — getting help
+---
 
 ## Stay Connected
 
-- 💬 [Discord]([DISCORD_INVITE_URL])
-- 🐦 Twitter / X: [@AscendantRP]([TWITTER_URL])
-- 📺 Twitch Team: [Ascendant on Twitch]([TWITCH_TEAM_URL])
-- 🎬 YouTube: [Ascendant Highlights]([YOUTUBE_URL])
+| Platform | Link |
+|---|---|
+| 💬 **Discord** | [discord.gg/ascendantrp](https://discord.gg/ascendantrp) |
+| 🛒 **Store** | [ascendant-rp.tebex.io](https://ascendant-rp.tebex.io) |
+
+---
+
+## In This Section
+
+{% content-ref url="discord.md" %}
+[💬 Discord](discord.md)
+{% endcontent-ref %}
+
+{% content-ref url="donations.md" %}
+[💎 Donations & VIP](donations.md)
+{% endcontent-ref %}
+
+{% content-ref url="support.md" %}
+[🆘 Support](support.md)
+{% endcontent-ref %}

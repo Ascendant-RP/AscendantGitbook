@@ -1,57 +1,92 @@
-# Roleplay Rules
+# 🎭 Roleplay Rules
+
+---
 
 ## Key Terms
 
-| Term | Meaning |
+| Term | Definition |
 |---|---|
-| **IC** | In Character — what your character knows, says, does. |
-| **OOC** | Out of Character — you, the player. |
-| **Metagaming** | Using OOC info IC (Discord, streams, names you shouldn't know). |
-| **Powergaming** | Forcing RP outcomes others can't react to, or unrealistic abilities. |
-| **FailRP** | Acting in a way no real person would. |
-| **NVL** | Not Valuing Life — see [Combat Rules](combat-rules.md). |
+| **IC** | In Character — what your character knows, says, and does |
+| **OOC** | Out of Character — you, the real person |
+| **Metagaming** | Using OOC information IC (streams, Discord, out-of-game sources) |
+| **Powergaming** | Forcing RP outcomes others can't react to, or using unrealistic abilities |
+| **FailRP** | Acting in a way no realistic person would in that situation |
+| **NVL** | Not Valuing Life — see [Combat Rules](combat-rules.md) |
+| **CK** | Character Kill — permanent death of a character |
+
+---
 
 ## 1. Stay In Character
 
-- Once you're connected, you're IC. Use **/ooc** sparingly and only when needed.
-- Don't break character to argue rules — open a ticket.
-- "Brb" mid-scene is FailRP. Find a believable reason to step away.
+- Once you're connected and in the city, you're IC. Use `/ooc` sparingly and only when genuinely necessary.
+- Don't break character mid-scene to argue rules. Open a `/report` ticket instead — then continue RP.
+- "Brb" mid-scene is FailRP. Have your character exit believably.
+
+---
 
 ## 2. No Metagaming
 
-- Your character only knows what they've **learned IC**.
-- Names, addresses, phone numbers — you don't know them until they're shared in scene.
-- Don't relay info via Discord, party chat, or DMs while in-game.
+{% hint style="danger" %}
+Metagaming is one of our most commonly enforced rules. Staff can review logs, recordings, and Discord chat.
+{% endhint %}
+
+- Your character only knows what they've **learned in character**.
+- Names, addresses, phone numbers — you don't know them until they're shared IC.
+- Don't relay info through Discord DMs, party chat, or external calls while in-game.
 - Stream-sniping = metagaming = ban.
+
+---
 
 ## 3. No Powergaming
 
-- Don't `/me` actions others can't counter. ❌ `/me knocks them out instantly`
-- Use `/me` and `/do` to describe and confirm: ✅ `/me attempts to choke them out` → wait for response.
-- No god-tier characters. Your guy bleeds, gets tired, and can lose.
+- Don't `/me` actions others can't counter or react to.
+
+| ❌ Don't | ✅ Do |
+|---|---|
+| `/me knocks them out instantly` | `/me attempts to choke them out` — wait for their response |
+| `/me steals their weapon with no reaction possible` | `/me reaches for the weapon` → let them react |
+
+- No invincible characters. Your character bleeds, gets tired, and can lose.
+
+---
 
 ## 4. Realistic Character Concepts
 
-- No superheroes, no cartoon characters, no anime protagonists.
-- Your character's name should be plausible (no "John Cena" or "Big Smoke").
-- Backstory should fit the world.
+- No superheroes, cartoon characters, or anime protagonists.
+- Character names must be plausible — no "John Wick", "Big Smoke", or joke names.
+- Backstory should fit the realistic world of Los Santos.
 
-## 5. RP Engagement
+---
 
-- Engage with RP that comes to you. Don't run from every interaction.
-- A robbery is RP. Being robbed is RP. Comply or escalate believably — but **engage**.
+## 5. Engage With RP
+
+- Don't run from every interaction. A robbery, a police stop, a confrontation — these are RP opportunities.
+- You don't have to enjoy every scene, but you do have to engage with it.
+
+---
 
 ## 6. Fear RP
 
-- A gun pointed at your head means **comply**. Acting like you're invincible is FailRP.
-- Outnumbered + outgunned = realistic fear response.
-- Aggression has consequences — your character should know that.
+{% hint style="warning" %}
+Fear RP applies whenever your character is in a life-threatening situation they realistically cannot win.
+{% endhint %}
 
-## 7. /me and /do Commands
+- A gun to your head means **comply**. Acting invincible is FailRP.
+- Outnumbered and outgunned = realistic fear response required.
+- Aggression has consequences. Your character should know this.
 
-- `/me [action]` — describes a physical action. *e.g. /me reaches into his glove box*
-- `/do [question/state]` — asks or describes something verifiable. *e.g. /do can he see the gun? / Tattoo of a snake on his neck.*
+---
+
+## 7. `/me` and `/do` Commands
+
+- `/me [action]` — describes a physical action visible to nearby players.
+  - *Example: `/me reaches slowly into the glove box`*
+- `/do [statement/question]` — describes something environmental, or asks what's observable.
+  - *Example: `/do Can he see a tattoo on my neck? / A snake tattoo runs from his collar to his jaw.`*
+
+---
 
 ## 8. Cop Baiting
 
-- Don't deliberately provoke police for "content." Drive past PD revving your engine = warning, then kick.
+- Don't deliberately provoke police solely for content with no RP motivation.
+- Driving past PD revving your engine with no other purpose = warning, then kick, then ban.
